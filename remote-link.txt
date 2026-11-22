@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wonderful-was-warnings-billing.trycloudflare.com/vnc.html
+URL       : https://wake-brook-synthetic-abilities.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-21 20:48:15
+Created   : 2026-11-22 05:07:22
 =======================================================
