@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://living-ending-blair-sustained.trycloudflare.com/vnc.html
+URL       : https://carlos-trigger-blogging-get.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-26 23:31:34
+Created   : 2026-11-27 06:47:13
 =======================================================
