@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://appearing-calibration-pale-ranger.trycloudflare.com/vnc.html
+URL       : https://item-ranch-refugees-turtle.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-27 19:23:29
+Created   : 2026-11-28 02:31:29
 =======================================================
